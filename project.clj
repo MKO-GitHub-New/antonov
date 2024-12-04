@@ -1,4 +1,4 @@
-(defproject antonov "release.8.69"
+(defproject antonov "release.8.70"
   :description "OTA Standard SOAP server"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
